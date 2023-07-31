@@ -1,0 +1,53 @@
+not_permission: '&cBrak uprawnien'
+shelf_message: '&aWlaczyles chat'
+shelf2_message: '&cWylaczyles chat'
+server_message: '&cChat zostal wylaczony'
+server2_message: '&aChat zostal wlaczony'
+usage: '&cUzycie: /chat <on/off/clear>'
+disable: "&cChat jest wylaczony"
+shelf_clear: '&cWyczysciles chat'
+server_clear: '&cChat zostal wyczyszczony przez Administratora'
+reload: '&aPlugin zostal pomyslnie przeladowany'
+eword_blocked: '&cTwoja wiadomosc zostala zablokowana prez system Anty-Reklama / Anty-Wulgaryzmy'
+blocked-words:
+  - youtube
+  - instagram
+  - tiktok
+  - twitch
+  - kick
+  - discord
+  - facebook
+  - pornhub
+  - redtube
+  - kutas
+  - kurwa
+  - jebac
+  - szmata
+  - wypierdalaj
+  - wypier
+  - spierdalaj
+  - pochwa
+  - plemnik
+  - sperma
+  - sex
+  - ruchanie
+  - dziwka
+  - zajeb sie
+  - zajeb się
+  - gwalt
+  - gwałt
+  - zrób loda
+  - zrob loda
+  - prostytutka
+  - .com
+  - .pl
+  - .org
+  - .net
+  - .tk
+  - .gov
+  - .com.pl
+  - .aternos.me
+  - wbijać na
+  - wbijac na
+  - nowe ip
+  - zmienone ip na
