@@ -1,0 +1,10 @@
+not_permission: '&cBrak uprawnien'
+shelf_message: '&aWlaczyles chat'
+shelf2_message: '&cWylaczyles chat'
+server_message: '&cChat zostal wylaczony'
+server2_message: '&aChat zostal wlaczony'
+usage: '&cUzycie: /chat <on/off/clear>'
+disable: "&cChat jest wylaczony"
+shelf_clear: '&cWyczysciles chat'
+server_clear: '&cChat zostal wyczyszczony przez Administratora'
+reload: '&aPlugin zostal pomyslnie przeladowany'

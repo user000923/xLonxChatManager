@@ -1,0 +1,7 @@
+name: xLonxChatMenager
+version: 1
+author: xLonx
+main: me.xlonx.main.Main
+commands:
+  ChatReload:
+  chat:
